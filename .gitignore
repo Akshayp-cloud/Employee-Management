@@ -1,6 +1,6 @@
 # Ignore frontend node_modules and dist
-frontend/my-app/node_modules/
-frontend/my-app/build/
+frontend/node_modules/
+frontend/build/
 
 # Ignore server node_modules and dist
 server/node_modules/
